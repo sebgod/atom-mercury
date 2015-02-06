@@ -1,6 +1,6 @@
 {
   "name": "language-mercury",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An Atom package for the Mercury language",
   "repository": "https://github.com/sebgod/atom-mercury",
   "license": "MIT",
